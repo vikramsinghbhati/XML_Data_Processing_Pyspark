@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>  
+ 
+    <Customers>
+    <Customer CustomerID="1">  
+      <CompanyName>Great Lakes Food Market</CompanyName>  
+      <ContactName>Howard Snyder</ContactName>  
+      <ContactTitle>Marketing Manager</ContactTitle>  
+      <Phone>50355575</Phone>
+      <EnrollDate>1997-05-06</EnrollDate>
+      
+    </Customer>  
+    <Customer CustomerID="2">  
+      <CompanyName>Hungry Coyote Import Store</CompanyName>  
+      <ContactName>Yoshi Latimer</ContactName>  
+      <ContactTitle>Sales Representative</ContactTitle>  
+      <Phone>50355568</Phone> 
+      <EnrollDate>1998-05-06</EnrollDate>	  
+     
+        
+    </Customer>  
+    <Customer CustomerID="3">  
+      <CompanyName>Lazy K Kountry Store</CompanyName>  
+      <ContactName>John Steel</ContactName>  
+      <ContactTitle>Marketing Manager</ContactTitle>  
+      <Phone>50955579</Phone>
+      <EnrollDate>1997-05-07</EnrollDate>	  
+       
+       
+    </Customer>  
+    <Customer CustomerID="4">  
+      <CompanyName>Let's Stop N Shop</CompanyName>  
+      <ContactName>Jaime Yorres</ContactName>  
+      <ContactTitle>Owner</ContactTitle>  
+      <Phone>41555559</Phone> 
+      <EnrollDate>1997-03-06</EnrollDate>	  
+      
+    </Customer>  
+    
+ </Customers>
+   
+
